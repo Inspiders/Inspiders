@@ -7,7 +7,6 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3643416" style='border:none;'></iframe>
 
 
 
