@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Inspiders</h1>
 
-<h1 align="center" style="color: #800080">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Error+Not+Found;+I'm+inspiders+No+404;" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Error+Not+Found;+I'm+inspiders+No+404;&color=FF0000" />
 </h1>
+
 
 <h1 align="center">
  Web Developer - Full Stack <br> 
