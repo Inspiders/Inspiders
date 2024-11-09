@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=inspiders.Skyspidersquick" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Greetings+World!+👋;+I'm+inspiders+No+Spiders;" />
@@ -27,8 +26,8 @@ Hey there! I'm Igor Semedo, but in the tech world, I go by PercyNoRonin, the Sam
 
 <div align="center">
 <a href="https://www.github.com/inspiders" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/IgorSemed0?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a><a href="https://www.x.com/PercyNoRonin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/PercyNoRonin?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
+src="https://img.shields.io/github/followers/inspiders?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a><a href="https://x.com/Akashicspiders.com" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Akashicspiders?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
 /></a>
 </div>
 
