@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Full Stack Developer | Laravel · React · React Native <br>
+  💻 Full Stack Developer |  React · React Native <br>
   🌍 Web · Desktop · Mobile Development
 </h3>
 
