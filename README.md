@@ -5,8 +5,8 @@
 </h1>
 
 <h3 align="center">
-  💻 Full Stack Developer |  React · React Native <br>
-  🌍 Web · Desktop · Mobile Development
+  💻 Full Stack Developer | React · React Native <br>
+  🌍 Web · Desktop · Mobile Development · Ethical Hacking
 </h3>
 
 ---
@@ -16,7 +16,7 @@
 </p>
 
 - 🔭 Currently working on **Community X**
-- 🌱 Learning: **React, Laravel, Java, Vue**
+- 🌱 Learning: **React, Java, Vue, Ethical Hacking**
 - 🤝 Open to collaborations in the future!
 - 💬 Ask me about anything — just chilling at home.
 - ⚡ Fun fact: **I don’t speak English... but I code it fluently!**
@@ -61,6 +61,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40" alt="Electron"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
+#### 🧠 Cybersecurity & Ethical Hacking
+<p align="left">
+  <img src="https://www.kali.org/images/favicon.png" width="40" height="40" alt="Kali Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Metasploit_logo_and_wordmark.svg" width="100" height="40" alt="Metasploit"/>
+  <img src="https://nmap.org/images/favicon.ico" width="40" height="40" alt="Nmap"/>
+  <img src="https://avatars.githubusercontent.com/u/4081496?s=200&v=4" width="40" height="40" alt="Burp Suite (PortSwigger)"/>
+  <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="40" height="40" alt="Wireshark"/>
 </p>
 
 #### 🖌️ Design
