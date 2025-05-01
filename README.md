@@ -63,14 +63,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
 </p>
 
-#### 🧠 Cybersecurity & Ethical Hacking
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Kali_Linux_2.0_wordmark.svg" width="100" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Metasploit_logo.png" width="100" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Nmap-logo.svg" width="100" height="50" />
-  <img src="https://avatars.githubusercontent.com/u/4081496?s=200&v=4" width="50" height="50" alt="Burp Suite" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Wireshark_Logo.svg" width="100" height="50" />
-</p>
+
+🧠 Cybersecurity & Ethical Hacking
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" /> <img src="https://www.svgrepo.com/show/353478/wireshark.svg" width="50" height="50" alt="Wireshark" /> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Nmap-logo.svg" width="50" height="50" alt="Nmap" /> <img src="https://avatars.githubusercontent.com/u/4010206?s=200&v=4" width="50" height="50" alt="Metasploit" /> </p>
 
 #### 🖌️ Design
 <p align="left">
