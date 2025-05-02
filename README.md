@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind CSS" />
 </p>
 
 #### 🧰 Tools & Platforms
@@ -63,9 +63,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
 </p>
 
-
 🧠 Cybersecurity & Ethical Hacking
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" /> <img src="https://www.svgrepo.com/show/353478/wireshark.svg" width="50" height="50" alt="Wireshark" /> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Nmap-logo.svg" width="50" height="50" alt="Nmap" /> <img src="https://avatars.githubusercontent.com/u/4010206?s=200&v=4" width="50" height="50" alt="Metasploit" /> </p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" width="50" height="50" alt="Wireshark" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" width="50" height="50" alt="Nmap" />
+  <img src="https://avatars.githubusercontent.com/u/4010206?s=200&v=4" width="50" height="50" alt="Metasploit" />
+</p>
 
 #### 🖌️ Design
 <p align="left">
