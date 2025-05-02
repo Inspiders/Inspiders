@@ -67,7 +67,6 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wireshark_Logo.svg" width="50" height="50" alt="Wireshark" />
   <img src="https://nmap.org/images/nmap-logo-256x256.png" width="50" height="50" alt="Nmap" />
   <img src="https://avatars.githubusercontent.com/u/4010206?s=200&v=4" width="50" height="50" alt="Metasploit" />
 </p>
