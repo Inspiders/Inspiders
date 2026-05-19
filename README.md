@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=2500&lines=Erro+404:+Inspiders+Não+Encontrado;🚀+Desenvolvedor+Full+Stack+em+Ação;🎨+Designer+UI/UX+%26+Entusiasta+de+IA;🐍+Programador+Python+%26+Hacker+Ético;🌟+Sempre+Aprendendo%2C+Sempre+Criando;&color=00FFFF&background=0D1117" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=2500&lines=🚀+Desenvolvedor+Full+Stack+em+Ação;🎨+Designer+UI/UX+%26+Entusiasta+de+IA;🐍+Programador+Python+%26+Hacker+Ético;🌟+Sempre+Aprendendo%2C+Sempre+Criando;&color=00FFFF&background=0D1117" />
 </h1>
 
 <div align="center">
@@ -29,19 +29,13 @@
 
 </div>
 
+---
+
 ## 🌟 Sobre Mim
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 Atualmente trabalhando no **Community X**
-- 🌱 Aprendendo: **React, Java, Vue, Python, Design IA, Hacking Ético**
-- 🎨 Criando: **Interfaces UI/UX com ferramentas de IA**
-- 🤖 Explorando: **Machine Learning e integração de IA**
-- 🛡️ Praticando: **Hacking Ético & Cibersegurança**
-- 🎯 Objetivo: **Criar experiências digitais impactantes**
-- 🤝 Aberto para colaborações no futuro!
-- 💬 Pergunte-me sobre qualquer coisa — só relaxando em casa
-- ⚡ Fato curioso: **Não falo inglês... mas programo fluentemente!**
+Sou Adelino Manuel, um **Desenvolvedor Full Stack** e **Designer UI/UX** apaixonado por transformar ideias em soluções digitais impactantes. Com um forte interesse em **Inteligência Artificial** e **Machine Learning**, dedico-me a explorar e aplicar tecnologias inovadoras para criar experiências de utilizador intuitivas e eficientes. Sou um entusiasta do **código aberto**, buscando ativamente oportunidades para contribuir e colaborar em projetos que impulsionem o avanço tecnológico, especialmente nas áreas de Python e IA. Atualmente, estou focado em aprofundar os meus conhecimentos em **Hacking Ético e Cibersegurança** para construir sistemas mais robustos e seguros. Estou sempre aprendendo, sempre criando e aberto a novas colaborações.
 
 ---
 
@@ -50,11 +44,11 @@
 <div align="center">
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/skyspidersquick)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](#)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelino-manuel-b8a1b21b7/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adelino_manuel)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your_discord_id)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/adelinomanuel)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/adelinomanuel)
 
 </div>
 
@@ -274,6 +268,16 @@ mindmap
 
 ---
 
+## 📚 Contribuições Open Source
+
+<div align="center">
+
+Estou ativamente envolvido na comunidade de código aberto, contribuindo para projetos que se alinham com os meus interesses em Python, IA e desenvolvimento Full Stack. As minhas contribuições incluem correção de bugs, melhorias de funcionalidades e documentação, e participação em discussões técnicas. O meu objetivo é tornar-me um contribuidor central em projetos significativos, ajudando a impulsionar a inovação e a partilha de conhecimento.
+
+</div>
+
+---
+
 ## 🎨 Portfólio de Design
 
 <div align="center">
@@ -320,153 +324,91 @@ DevOps & Deploy          ██████████░░░░░░░░�
 <!-- BLOG-POST-LIST:START -->
 - 🚀 [Construindo Aplicações React Escaláveis com TypeScript](https://dev.to/skyspidersquick)
 - 🎨 [O Futuro da IA no Design UI/UX](https://dev.to/skyspidersquick)
-- 🐍 [Machine Learning em Python: Do Iniciante ao Avançado](https://dev.to/skyspidersquick)
-- 🛡️ [Hacking Ético: Guia do Iniciante para Cibersegurança](https://dev.to/skyspidersquick)
-- 📱 [React Native vs Flutter: Qual Escolher?](https://dev.to/skyspidersquick)
+- 🐍 [Desvendando os Segredos do Python para IA](https://dev.to/skyspidersquick)
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://dev.to/skyspidersquick" target="_blank">
-  <img src="https://img.shields.io/badge/Ler_Mais_Artigos-00FFFF?style=for-the-badge&logo=dev.to&logoColor=white" />
-</a>
-
 </div>
 
 ---
 
-## 📊 Divisão Semanal de Desenvolvimento
+## 🤝 Colaborações & Contato
 
-```text
-Python       🐍 ████████████████████████░   96%
-JavaScript   🟨 ██████████████████████░░░   88%
-TypeScript   🔷 ████████████████░░░░░░░░░   64%
-CSS/SCSS     🎨 ██████████████████░░░░░░░   72%
-Java         ☕ ██████████░░░░░░░░░░░░░░░   40%
-PHP          🌐 ████████░░░░░░░░░░░░░░░░░   32%
-Outros       ⚡ ████████████░░░░░░░░░░░░░   48%
-```
+Estou sempre aberto a novas oportunidades de colaboração em projetos inovadores. Se tiver uma ideia ou quiser discutir um projeto, sinta-se à vontade para me contactar através das minhas redes sociais ou email.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+</div>
 
----
-
-## 💬 Frase de Dev Aleatória
+<!-- English Version -->
+<a name="english-version"></a>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20melhor%20mensagem%20de%20erro%20é%20aquela%20que%20nunca%20aparece&author=Thomas%20Fuchs" alt="Frase de Dev" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=2500&lines=🚀+Full+Stack+Developer+in+Action;🎨+UI/UX+Designer+%26+AI+Enthusiast;🐍+Python+Programmer+%26+Ethical+Hacker;🌟+Always+Learning%2C+Always+Creating;&color=00FFFF&background=0D1117" />
+</h1>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=💻+Full+Stack+Developer+%7C+React+·+React+Native+·+Python;🎨+UI%2FUX+Designer+%7C+AI+Design+Specialist;🌍+Web+·+Desktop+·+Mobile+·+Ethical+Hacking;🚀+Transforming+Ideas+into+Digital+Reality)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🎯 Fatos Curiosos & Easter Eggs
+## 🌟 About Me
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+I'm Adelino Manuel, a **Full Stack Developer** and **UI/UX Designer** passionate about transforming ideas into impactful digital solutions. With a strong interest in **Artificial Intelligence** and **Machine Learning**, I dedicate myself to exploring and applying innovative technologies to create intuitive and efficient user experiences. I am an **open-source enthusiast**, actively seeking opportunities to contribute and collaborate on projects that drive technological advancement, especially in the areas of Python and AI. Currently, I am focused on deepening my knowledge in **Ethical Hacking and Cybersecurity** to build more robust and secure systems. I am always learning, always creating, and open to new collaborations.
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-### 🎲 Estatísticas Aleatórias Sobre Mim
-
-- ☕ Café consumido enquanto programo: **∞ xícaras**
-- 🐛 Bugs corrigidos este ano: **404 (não encontrados)**  
-- 🌙 Melhores horas para programar: **23h - 3h**
-- 🎵 Música favorita para programar: **Lo-fi Hip Hop** 
-- 💻 Sistemas operacionais: **Linux 70% | Windows 30%**
-- 🎮 Setup de gaming: **Pronto para sessões de debug**
-- 🧠 Aprendendo novas tecnologias: **Todos os dias**
-- 🌍 Projeto dos sonhos: **IA que se projeta sozinha**
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/skyspidersquick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelino-manuel-b8a1b21b7/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adelino_manuel)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your_discord_id)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/adelinomanuel)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/adelinomanuel)
 
 </div>
 
 ---
 
-## 💰 Apoie Meu Trabalho
+## 📚 Open Source Contributions
 
 <div align="center">
 
-### ☕ Me Pague um Café & Apoie o Desenvolvimento
-
-<a href="https://www.buymeacoffee.com/inspiders" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" width="217" alt="Me Pague um Café" />
-</a>
-
-<a href="https://ko-fi.com/inspiders" target="_blank">
-  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="60" width="217" alt="Ko-Fi" />
-</a>
-
-### 💎 Outras Formas de Apoiar
-
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/inspiders)
-[![PayPal](https://img.shields.io/badge/PayPal-Doar-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/inspiders)
-[![Patreon](https://img.shields.io/badge/Patreon-Apoiar-F96854?style=for-the-badge&logo=patreon)](https://patreon.com/inspiders)
+I am actively involved in the open-source community, contributing to projects that align with my interests in Python, AI, and Full Stack development. My contributions include bug fixes, feature enhancements, documentation improvements, and participation in technical discussions. My goal is to become a core contributor to significant projects, helping to drive innovation and knowledge sharing.
 
 </div>
 
 ---
 
-## 📞 Vamos Conectar & Colaborar!
+## 🎨 Design Portfolio
 
 <div align="center">
 
-### 💼 Disponível para:
-- 🚀 **Projetos de Desenvolvimento Full-Stack**
-- 🎨 **Consultoria em Design UI/UX**  
-- 🤖 **Serviços de Integração IA/ML**
-- 🛡️ **Auditorias de Segurança & Testes de Penetração**
-- 📱 **Desenvolvimento de Aplicações Mobile**
-- 🎓 **Mentoria & Revisão de Código**
+### UI/UX Design Highlights
 
-### 📧 Informações de Contato
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@inspiders.dev)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+<img src="https://via.placeholder.com/800x400/0D1117/00FFFF?text=UI%2FUX+Design+Portfolio" alt="Design Portfolio"/>
 
-**Tempo de Resposta:** Normalmente em 24 horas ⚡
+**Tools Used:** Figma • Adobe XD • Photoshop • Illustrator • Sketch
+
+### 🏆 Design Achievements
+- 🎯 **50+ UI/UX Projects** completed
+- 🌟 **15+ Mobile Apps** created
+- 💼 **10+ Brand Identities** developed
+- 🚀 **98% Client Satisfaction Rate**
 
 </div>
 
 ---
 
-<div align="center">
+## 🤝 Collaborations & Contact
 
-### 🎨 Tema do Perfil
-**Entusiasta do Modo Escuro** | **Estética Cyberpunk** | **Design Minimalista**
-
-### 🎭 Humor Atual
-```
-if (programando) {
-    humor = "😎 Focado & Criativo";
-} else if (debugando) {
-    humor = "🤔 Modo Detetive";
-} else {
-    humor = "🚀 Pronto para o Próximo Desafio";
-}
-```
-
-### 📈 Contador de Visitantes
-![Badge de Visitantes](https://visitor-badge.laobi.icu/badge?page_id=inspiders.inspiders&left_color=00FFFF&right_color=FF6B9D)
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=fff&animation=twinkling" />
-</div>
-
----
-
-<div align="center">
-  <i>⭐ De <a href="https://github.com/inspiders">Inspiders</a> com 💙</i>
-  <br>
-  <sub>🔄 Este README atualiza automaticamente • Última atualização: $(date)</sub>
-</div>
-
----
-
-<div id="english-version" align="center">
-
-## 🇺🇸 English Version
-
-*[Click here to switch to English version - would redirect to English README file]*
-
-**🌍 Language:** [🇵🇹 Português](#) | **🇺🇸 English**
+I am always open to new collaboration opportunities on innovative projects. If you have an idea or want to discuss a project, feel free to contact me through my social media or email.
 
 </div>
