@@ -5,7 +5,7 @@
 <div align="center">
   
 <!-- Language Switch -->
-🌍 **Idioma:** [🇵🇹 Português](#) | [🇺🇸 English](#english-version)
+🌍 **Idioma:** [🇵🇹 Português](#) | [ English](#english-version)
 
 </div>
 
