@@ -82,23 +82,23 @@ mobile, and desktop — with a growing focus on **AI integration** and
 ## GITHUB STATS
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=inspiders&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&border_color=000000"/>
-<img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=inspiders&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&border_color=000000&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=inspiders&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=000000&icon_color=000000&text_color=000000&border_color=000000&cache_seconds=86400"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inspiders&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=000000&text_color=000000&border_color=000000&langs_count=8&cache_seconds=86400"/>
 <br/>
 <img src="https://streak-stats.demolab.com/?user=inspiders&theme=default&hide_border=true&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&dates=000000&sideLabels=000000"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&section=header" width="100%"/>
 
-## 2025 ROADMAP
+## 2026/27 ROADMAP
 
 ```
 [ ] Launch Community X Beta
 [ ] Build 5 AI-powered applications
-[ ] Ship 3 mobile apps
-[ ] Contribute to 20 open source projects
+[ ] Ship 1 mobile apps
+[ ] Contribute to 5 open source projects
 [ ] Publish 50 technical articles
-[ ] Mentor 10 new developers
+[ ] Mentor new developers
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&section=header" width="100%"/>
