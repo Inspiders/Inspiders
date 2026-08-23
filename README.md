@@ -96,7 +96,7 @@ mobile, and desktop — with a growing focus on **AI integration** and
 
 <div align="center">
 
-[![Dev.to](https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/skyspidersquick)
+[![Dev.to](https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/inspiders)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelino-manuel-b8a1b21b7/)
 [![Twitter](https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adelino_manuel)
 [![Behance](https://img.shields.io/badge/BEHANCE-000000?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/adelinomanuel)
