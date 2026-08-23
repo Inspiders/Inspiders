@@ -17,7 +17,7 @@
 
 ## ABOUT
 
-I'm **Adelino Manuel**, a Full Stack Developer and UI/UX Designer passionate
+I'm **Adelino Manuel**, a Full Stack Developer passionate
 about turning ideas into impactful digital experiences. I work across web,
 mobile, and desktop — with a growing focus on **AI integration** and
 **Ethical Hacking**.
